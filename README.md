@@ -10,13 +10,11 @@ Collatz conjectured that any number when repeatedly applied to the function
 
 always yields the value of unity.
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c2/Collatz-graph-50-no27.svg)
-
 Some example graphs are shown below,
 
-![](https://github.com/shirsakm/collatz_conjecture/blob/master/assets/27.png)
+![The steps graph of 27](https://github.com/shirsakm/collatz_conjecture/blob/master/showcase/27.png)
 
-![](https://github.com/shirsakm/collatz_conjecture/blob/master/assets/5_7_13.png)
+![The steps graph of 5, 7, 13 plotted simultaneously](https://github.com/shirsakm/collatz_conjecture/blob/master/showcase/5_7_13.png)
 
 ## Usage
 
