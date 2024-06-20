@@ -23,7 +23,7 @@ def main():
             print(f"Steps required for {i} were {len(collatz_values)}")
 
             color = f"C{random.randint(0, 9)}"     
-            ax.plot([i for i in range(1, len(collatz_values) + 1)], collatz_values, marker = 'o', color = color, label = f"{i}")
+            ax.plot([i for i in range(1, len(collatz_values) + 1)], collatz_values, marker = 'o', markersize = '3', color = color, label = f"{i}")
 
         set_graph(ax)
         plt.show()
